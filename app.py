@@ -43,6 +43,9 @@ app.layout = html.Div(children=[
         id='figure-1',
         figure=fig
     ),
+    html.H3('Summary'),
+    html.Br(),
+    html.P(desdonut),
     html.A('Code on Github', href=githublink),
     html.Br(),
     html.A("Data Source", href=sourceurl),
