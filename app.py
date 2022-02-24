@@ -14,6 +14,7 @@ color3 = 'CDAB87'
 tabtitle = 'YES Donuts'
 sourceurl = 'https://brandpalettes.com/dunkin-donuts-color-codes/'
 githublink = 'https://github.com/Malathy-Muthu/103-dunkin-donuts'
+desdonut = 'This report is from your local donut store, YES! Donuts'
 
 ########### Set up the chart
 mydata = go.Pie(
